@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body { 
+margin: 0;
+padding: 0;
+background-color: #101010;
+    
+font-family: 'Roboto';
+}
+
+
+/* button styles reset */
+button {
+    border: none;
+    cursor: pointer;
+    outline: none; 
+    background-color: transparent; 
+    margin: 0;
+    padding: 0;  
+}
+
+
