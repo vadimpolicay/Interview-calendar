@@ -17,7 +17,6 @@ flex-direction: column;
 background-color: #FFFFFF;
 justify-content: space-between;
 font-family: 'Roboto';
-
 `;
 
 const Header = styled.div`
