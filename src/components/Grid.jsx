@@ -21,12 +21,12 @@ ${tablet({ width: "15%"})};
 ${mobile({ width: "19%"})};
 `;
 
-const HourCell = styled.div`{
+const HourCell = styled.div`
  text-align: right;
   font-weight: 500;
   color: rgb(175 173 173);
   font-family: Roboto, monospace;
-}`;
+`;
 
 
 const MinuteGrid = styled.div`
