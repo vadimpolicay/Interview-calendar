@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Interview-calendar/static/css/main.bee0376a.css",
-    "main.js": "/Interview-calendar/static/js/main.923c502d.js",
-    "index.html": "/Interview-calendar/index.html",
-    "main.bee0376a.css.map": "/Interview-calendar/static/css/main.bee0376a.css.map",
-    "main.923c502d.js.map": "/Interview-calendar/static/js/main.923c502d.js.map"
+    "main.css": "/interview-calendar/static/css/main.bee0376a.css",
+    "main.js": "/interview-calendar/static/js/main.467da107.js",
+    "index.html": "/interview-calendar/index.html",
+    "main.bee0376a.css.map": "/interview-calendar/static/css/main.bee0376a.css.map",
+    "main.467da107.js.map": "/interview-calendar/static/js/main.467da107.js.map"
   },
   "entrypoints": [
     "static/css/main.bee0376a.css",
-    "static/js/main.923c502d.js"
+    "static/js/main.467da107.js"
   ]
 }
