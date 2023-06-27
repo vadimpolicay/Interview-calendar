@@ -21,7 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +43,8 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "styled-components": "^5.3.10"
-  }
+  },
+  "homepage": "https://vadimpolicay.github.io/Interview-calendar"
 }
