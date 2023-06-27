@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Interview-calendar/static/css/main.bee0376a.css",
+    "main.js": "/Interview-calendar/static/js/main.923c502d.js",
+    "index.html": "/Interview-calendar/index.html",
+    "main.bee0376a.css.map": "/Interview-calendar/static/css/main.bee0376a.css.map",
+    "main.923c502d.js.map": "/Interview-calendar/static/js/main.923c502d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee0376a.css",
+    "static/js/main.923c502d.js"
+  ]
+}
