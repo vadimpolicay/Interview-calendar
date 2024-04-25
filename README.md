@@ -1,7 +1,4 @@
-stack: 
-react,
-react-styled-components
-project is live at     https://vadimpolicay.github.io/interview-calendar/
+stack: react, styled-components. Project is live at     https://vadimpolicay.github.io/interview-calendar/
 
 
 # Getting Started with Create React App
